@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Kaushan+Script|Permanent+Marker|Roboto');
+*{
+   font-family: 'Roboto', sans-serif;
+}
+
+h1 , img , figure {
+    
+    
+    text-align: center;
+}
+
+.under{
+    font-weight: 900;
+    text-decoration: underline;
+    
+    
+}
+
+ul{
+    color:blue;
+    
+}
+.italic{
+    font-style: italic;
+}
+
+body{
+    background-color: skyblue;
+}
